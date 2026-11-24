@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 TitanAI (formerly TELS AI)
+# 🤖 TitanAI
 
 ### The AI inside TitanEd Orbit: help for learners and course teams, right where learning happens
 
